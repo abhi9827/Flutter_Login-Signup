@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851106613586",
+    "project_id": "parchi-1d584",
+    "storage_bucket": "parchi-1d584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851106613586:android:c54fea3d453efbeaef928b",
+        "android_client_info": {
+          "package_name": "com.example.parchi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851106613586-5l2a88g1om3ep3g9aa05ap5apsoi1nfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuBYmCcX-8UW9fCwnrdRc7KK1C6IgCuIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851106613586-5l2a88g1om3ep3g9aa05ap5apsoi1nfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
